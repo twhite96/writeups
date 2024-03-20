@@ -10,7 +10,6 @@ You can find my write-ups below.
 [OWASP Juice Shop Write-ups](https://thejuiceshop-writeups.0x8c.org/)
 
 
-
 ## My Wiki
 
 [0x8C Wiki](https://wiki.0x8c.org/)
