@@ -4,7 +4,7 @@ You can find my write-ups below.
 
   [HTB Box Write-ups](https://htb-writeups.0x8c.org/)
 
-> [!WARNING] Unfinished Project
+> [!WARNING]\ Unfinished Project
 > The OWASP site is just getting setup so there's nothing there.
 >
 
