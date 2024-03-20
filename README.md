@@ -2,11 +2,10 @@
 
 You can find my write-ups below.
 
-  [HTB Box Write-ups](https://htb-writeups.0x8c.org/)
+[HTB Box Write-ups](https://htb-writeups.0x8c.org/)
 
-> [!WARNING]\ Unfinished Project
+> [!NOTE] Unfinished Project
 > The OWASP site is just getting setup so there's nothing there.
->
 
 [OWASP Juice Shop Write-ups](https://thejuiceshop-writeups.0x8c.org/)
 
